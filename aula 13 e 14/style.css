@@ -1,0 +1,23 @@
+table{
+    width: 600px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #00677b;
+}
+
+th{
+    padding: 10px 0;
+    color: white;
+}
+
+td{
+    padding: 5px 0;
+}
+
+tbody tr:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}

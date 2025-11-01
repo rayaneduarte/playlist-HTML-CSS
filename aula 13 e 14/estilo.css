@@ -1,0 +1,28 @@
+.primeira-div{
+    background-color: aqua;
+    height: 30px;
+    width: 300px;
+}
+
+.segunda-div{
+    background-color: red;
+    height: 30px;
+}
+
+.primeiro-link{
+    background-color: pink;
+}
+
+.terceira-div{
+    background-color: aqua;
+    height: 30px;
+    width: 300px;
+    display: inline-block;
+}
+
+.quarta-div{
+    background-color: brown;
+    height: 30px;
+    width: 300px;
+    display: inline-block;
+}
